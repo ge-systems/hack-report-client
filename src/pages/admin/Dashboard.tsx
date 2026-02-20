@@ -46,7 +46,7 @@ const AdminDashboard: React.FC = () => {
         setStats({
             assessmentCount: 12,
             criticalCount: 4,
-            totalFindings: 87,
+            totalFindings: 90,
             reportCount: 34,
             pendingCount: 2
         });
